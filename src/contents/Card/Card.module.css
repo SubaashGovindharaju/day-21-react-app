@@ -1,0 +1,28 @@
+.card {
+    width: 18rem;
+    margin-top: 50px;
+    display: grid !important;
+    align-content: end !important;
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+    border-color: black !important;
+}
+
+.colm {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.strike {
+    text-decoration: line-through !important;
+}
+
+.sale {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    border-color: 1px black;
+}

@@ -1,0 +1,9 @@
+.Foot {
+    height: 120px;
+    background-color:rgba(33,36,40,255);
+    color:#fefeff ;
+    display: grid;
+    justify-items: center;
+    align-content: center;
+
+}
